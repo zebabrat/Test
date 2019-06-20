@@ -1,0 +1,32 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+.list-show {
+    display: flex;
+    justify-content: space-around;
+}
+.list-of-pages {
+    text-align: center;
+    padding: 0;
+}
+.link {
+    display: inline-block;
+    padding: 5px;
+    margin: 3px;
+}
+#search-form {
+    margin: 15px auto;
+    width: 600px;
+    height: 40px;
+}
+#search-input {
+    width: 450px;
+    height: 15px;
+    padding-left: 5px;
+    border-radius: 10px;
+    outline: none;
+}
+#button-search {
+    width: 100px;
+}
